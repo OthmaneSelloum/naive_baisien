@@ -78,7 +78,7 @@ public class Reformate {
 
     public static void main(String[] args) {
         String rootDirectoryPath = "mini_newsgroups";
-        String destinationDirectoryPath = "C:\\Users\\Othmane\\Desktop\\Nouveau dossier";
+        String destinationDirectoryPath = "Corpus";
         int n = 10;
         renameAndMoveFiles(rootDirectoryPath, destinationDirectoryPath, n);
     }
